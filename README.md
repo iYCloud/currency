@@ -39,6 +39,7 @@ PzzhfP9DKFZrsPYOIfn3s3xJJt8UiGwS
 IWZQ51jbJRjsTpRGDqaMbkB8pp9aHK9a
 ```
 For Command line version: API key can be changed in the source code at line 97 or by looking for a keyword `apikey`.
+For Servlet version: API key can be changed in the source code at line 37 or by looking for a keyword `apikey`.
 
 ## Command line version
 Code is located in the `cli` directory.
